@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366070496438",
+    "project_id": "reviewphimapp1",
+    "storage_bucket": "reviewphimapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366070496438:android:1d955e14c83e948b733a17",
+        "android_client_info": {
+          "package_name": "com.example.app_film2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366070496438-4ak8vjpvtj1bofotko5d2b5t72mg4gav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjOVZI2fjG_WBlkd1pReEXi-iKU7J_LBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366070496438-4ak8vjpvtj1bofotko5d2b5t72mg4gav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
